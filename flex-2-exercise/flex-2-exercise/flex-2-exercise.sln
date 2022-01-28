@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flex-2-exercise", "flex-2-exercise\flex-2-exercise.vcxproj", "{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Debug|x64.ActiveCfg = Debug|x64
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Debug|x64.Build.0 = Debug|x64
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Debug|x86.ActiveCfg = Debug|Win32
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Debug|x86.Build.0 = Debug|Win32
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Release|x64.ActiveCfg = Release|x64
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Release|x64.Build.0 = Release|x64
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Release|x86.ActiveCfg = Release|Win32
+		{43EA16D3-BF0D-4229-A4EA-DD48B5ECB190}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09E5F68-D846-44F7-9669-D35709175BA4}
+	EndGlobalSection
+EndGlobal
